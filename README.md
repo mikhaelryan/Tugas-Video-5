@@ -1,5 +1,5 @@
 # Tugas-Video-5
-#program menghitung fpb atau kpk dari suatu bilangan
+#program menghitung fpb atau kpk dari 2 bilangan
 #input pilihan dari user fpb atau mencari kpk, 2 inputan bilangan 
 print('program menghitung FPB dan KPK\n1.FPB\n2.KPK')
 pilihan=int(input('masukan pilihan anda:'))
